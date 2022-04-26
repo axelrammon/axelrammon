@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a front-end developer in constant learning 🌱
+
+Study at the Federal University of Rio Grande do Norte 🏫
+
+Currently learning React JS 🍃
+
 <!--
 **axelrammon/axelrammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
