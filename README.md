@@ -17,9 +17,9 @@ Front-end Developer
 
 <div style="display: flex">
 <p>
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=axelrammon&show_icons=true&theme=slateorange" alt="axelrammon's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=axelrammon&show_icons=true&theme=codeSTACKr" alt="axelrammon's stats"/>
 </p>
 <p>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelrammon&layout=compact&theme=slateorange" alt="axelrammon's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelrammon&layout=compact&theme=codeSTACKr" alt="axelrammon's most languages"/>
 </p>
 </div>
