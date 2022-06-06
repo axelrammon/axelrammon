@@ -15,4 +15,11 @@ Front-end Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/axelrammon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=axelrammon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex">
+<p>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=axelrammon&show_icons=true&theme=slateorange" alt="axelrammon's stats"/>
+</p>
+<p>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelrammon&layout=compact&theme=slateorange" alt="axelrammon's most languages"/>
+</p>
+</div>
