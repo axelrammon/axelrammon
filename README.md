@@ -1,10 +1,9 @@
 Hi 👋 My name is Axel Rammon
 ============================
-Front-end Developer
-------------------
-- I'm just doing projects to improve skills* 
+Full Stack Developer
+------------------ 
 - 🖥️  See my portfolio at [Portfolio](http://axelrammon.github.io)* 
-- 🧠  I'm learning React JS and Vue JS
+- 🧠  My focus is PHP, Java and Vue JS
 
 ### Skills
 
